@@ -101,7 +101,7 @@ Focado em aprender automação web com Python e Selenium, ele simula interaçõe
 Se quiser trocar uma ideia, sugestões ou oportunidades:
 
 **Thomas Nxs**
-📧 [thomasnxs@gmail.com](mailto:thomas123456nexus@gmail.com)
+📧 [thomas123456nexus@gmail.com](mailto:thomas123456nexus@gmail.com)
 🔗 [github.com/thomasnxs](https://github.com/thomasnxs)
 
 ---
