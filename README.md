@@ -109,15 +109,3 @@ Se quiser trocar uma ideia, sugestões ou oportunidades:
 ## 📝 Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo `LICENSE` para mais detalhes.
-
-```
-
----
-
-### ✅ O que falta pra deixar top:
-- Criar um `requirements.txt` (se quiser te ajudo)
-- Criar a pasta `tests/` com algum teste básico (pra ficar mais “profissional”)
-- Colocar print ou GIF mostrando o bot rodando (fortalece demais o portfólio!)
-
-Quer que eu já te gere o `requirements.txt` também? Só me diz qual biblioteca tu usou no bot.
-```
